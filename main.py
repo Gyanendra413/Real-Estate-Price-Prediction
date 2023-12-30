@@ -186,7 +186,4 @@ print('RMSE:', np.sqrt(metrics.mean_squared_error(y_test, predictions)))
 
 
 # In[ ]:
-
-
-
-
+#Inserting naya wala comment
