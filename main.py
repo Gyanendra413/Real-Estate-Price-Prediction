@@ -187,6 +187,5 @@ print('RMSE:', np.sqrt(metrics.mean_squared_error(y_test, predictions)))
 
 # In[ ]:
 # Pandey ka comment line. Ye conflict dega...
-
-
+#Inserting naya wala comment
 
